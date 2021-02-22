@@ -1,5 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ipeirotis/introduction-to-python/blob/master/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ipeirotis/introduction-to-python/master)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/introduction-to-python/HEAD)
+
 [![Build Status](https://github.com/ipeirotis/introduction-to-python/workflows/Check%20that%20all%20notebooks%20work/badge.svg)](https://github.com/ipeirotis/introduction-to-python/actions?query=branch%3Amaster)
 
 # Introduction to Python for Data Science
